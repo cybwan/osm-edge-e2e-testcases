@@ -1,4 +1,4 @@
-# E2E TEST REPORT FOR TAG:v1.2.+
+# E2E TEST REPORT FOR TAG:v1.3.+
 
 | No  | Context                                                      | ARM64 Result | AMD64 Result |
 |-----| ------------------------------------------------------------ | ------------ | ------------ |
